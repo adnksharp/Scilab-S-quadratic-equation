@@ -14,3 +14,5 @@ Coeficiente c de la ecuación cuadratica: 6
 
 x1: -1.000000    x2: -0.857143
 ```
+
+Para leer los datos del usuario se usa la función [input](https://help.scilab.org/docs/6.1.1/en_US/input.html), los cuales son convertidos a números ([strtod](https://help.scilab.org/docs/6.1.1/en_US/strtod.html)). Miestras que para imprimer los datos se usa la función [printf](https://help.scilab.org/docs/6.1.1/en_US/printf_conversion.html)
